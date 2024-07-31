@@ -1,4 +1,4 @@
-package testgit
+package uc
 
 import "strings"
 
